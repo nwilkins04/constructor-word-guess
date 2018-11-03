@@ -10,4 +10,5 @@ var shit = function() {
 };
 
 //takes character as an argument, calls this.check function from letter.js
-var crap = function ()
+var crap = function ();
+
